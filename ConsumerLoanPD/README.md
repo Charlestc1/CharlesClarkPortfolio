@@ -1,0 +1,3 @@
+# Consumer Credit Risk Analysis
+
+This project examines consumer credit risk by transforming loan-level PD bucket data into risk shares and visualizing their evolution across loan types and time, culminating in the construction of a Consumer Credit Risk Index (CCRI) that captures aggregate portfolio risk dynamics. The analysis emphasizes descriptive insights, including the persistent concentration of balances in lower-risk PD buckets and the relative stability of consumer credit risk over time despite economic cycles. A preliminary Markov-based PD migration model was explored as an experimental extension, but its results were inconclusive and are presented as a proof of concept rather than a definitive forecasting tool.
