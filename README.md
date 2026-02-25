@@ -1,6 +1,6 @@
 # Data Science Portfolio of Charles Clark
 
-Welcome to my collection ofprojects!  
+Welcome to my collection of projects!  
 Each project lives in its own folder with the code and all required data files.
 
 ## Projects
